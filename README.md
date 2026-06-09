@@ -19,7 +19,7 @@ Runs once a day and sends a macOS notification for every open PR you authored th
 3. Sends a clickable macOS notification for any PR older than 7 days, showing the PR title and URL.
 4. Logs all output (notified and skipped PRs) to `~/Library/Logs/check-old-prs.log`.
 
-### Packages used
+### Packages used (note - The install script will do this automatically)
 
 | Package | Purpose | Install |
 |---|---|---|
